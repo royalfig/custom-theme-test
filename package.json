@@ -1,6 +1,6 @@
 {
     "name": "custom",
-    "description": "My personalized them adapted from Ghost's default theme (casper)",
+    "description": "Test out this new theme",
     "demo": "https://demo.ghost.io",
     "version": "1.0.0",
     "engines": {
